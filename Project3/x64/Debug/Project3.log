@@ -1,0 +1,16 @@
+﻿  BookLinkedList.cpp
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(119,23): error C2761: 'void BookLinkedList::RemoveNodeAfter(BookNode *)': redeclaration of member is not allowed
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(129,23): error C2761: 'bool BookLinkedList::IsEmpty(void) const': redeclaration of member is not allowed
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(132,30): error C2601: 'BookLinkedList::Front': local function definitions are illegal
+      C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(91,46):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(136,30): error C2601: 'BookLinkedList::Back': local function definitions are illegal
+      C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(91,46):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(140,23): error C2601: 'BookLinkedList::Exists': local function definitions are illegal
+      C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(91,46):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Eduardo Torres\source\repos\Project3\Project3\BookLinkedList.cpp(91,46): error C1075: '{': no matching token found
